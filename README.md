@@ -48,7 +48,8 @@ I tried linear reggression model models:
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
-*	**Linear Regression**: MAE = 18.86
+*	**Linear Regression**:model learned to clasfy 73% observation correctly 
+
 ## Data vizualisation
 visulaize the data using tableau
 * Analyze
