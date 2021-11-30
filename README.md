@@ -28,9 +28,20 @@ After loading  the data, I needed to clean it up so that it was usable for our m
 
 convert the row data into formate that easier to unserstand & usful for processing and analysis
 fix the problem that can inevitable occure with data gathering
-
-
-
+* mporting the Dataset in Python
+* Eyeballing the Data
+* Introduction to Terms with Multiple Meanings
+* An Analytical Approach to Solving the Task
+* Dropping the "ID" Column
+* Analysis of the "Reason for Absence" Column
+* Converting a Feature into Multiple Dummy Variables
+* Working with Dummy Variables from a Statistical Perspective
+* Grouping the Various Reasons for Absence
+* Concatenating Column Values
+* Creating Checkpoints in Jupyter
+* Working on the "Date" Column
+* Modifying "Education" and Discussing "Children" and "Pets"
+* Final Remarks on the Data Preprocessing Part of the Exercise
 
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables.
@@ -38,6 +49,20 @@ organise the information in suitable and practical way
 
 
 ## Model Building 
+
+* Creating the Targets for the Logistic Regression
+* Selecting the Inputs for the Regression
+* Standardizing the Dataset for Better Results
+* Train-test Split of the Data
+* Training and Evaluating the Model
+* Extracting the Intercept and Coefficients
+* Interpreting the Coefficients
+* Creating a Custom Scaler to Standardize Only Numerical Features
+* Interpreting the Important Predictors
+* Simplifying the Model (Backward Elimination)
+* Testing the Machine Learning Model
+* Saving theLogistic Regression Model
+* Creating a Module for Later Use of the Model
 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
 
@@ -61,7 +86,13 @@ The Random Forest model far outperformed the other approaches on the test and va
 * pet have negative coeffitiant, 24& lower than base model, less effective
 * intercept grt accurate result, cant interpret anything
 ## Data vizualisation
-visulaize the data using tableau
+
+* Moving Data from Python to SQL
+* Tableau Analysis: Age vs Probability
+* Tableau Analysis: Reasons vs Probability
+* Tableau Analysis: Transportation Expense vs Probability
+
+## visulaize the data using tableau
 * Analyze
 * visualize
 * interpret
