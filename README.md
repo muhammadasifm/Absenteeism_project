@@ -50,6 +50,8 @@ I tried linear reggression model models:
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Linear Regression**:model learned to clasfy 73% observation correctly 
 
+![alt text]"https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/Capture%20last.PNG"
+
 ## Data vizualisation
 visulaize the data using tableau
 * Analyze
