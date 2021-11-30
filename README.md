@@ -55,4 +55,4 @@ visulaize the data using tableau
 * visualize
 * interpret
  
-
+![alt text]https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/my%20analysis%20on%20tablue.pdf
