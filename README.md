@@ -50,18 +50,21 @@ I tried linear reggression model models:
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Linear Regression**:model learned to clasfy 73% observation correctly 
 
-![alt text]"https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/Capture%20last.PNG"
+![alt text](https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/Capture%20last.PNG "summary table")
 
 ## summary
+![alt text](https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/absense%20of%20reasons.jpg "varios reasons")
 * reason 0= basline line model(no reason)
 * person have poison poison 20 time likely to absent than person who have no reason
 * Drop unwanted reasons using back war elimination(daily work load avg,distance to work, day of week... all are have less impact) and make simple model
-* 
-* 
+* Transportation reason is standardized so get hight accuracy, optimization work is hight
+* pet have negative coeffitiant, 24& lower than base model, less effective
+* intercept grt accurate result, cant interpret anything
 ## Data vizualisation
 visulaize the data using tableau
 * Analyze
 * visualize
 * interpret
  
-![alt text]https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/my%20analysis%20on%20tablue.pdf
+![alt text](https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/tablue%20analysis.PNG "Tableau observation")
+![alt text](https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/tablue%20analysis%202.PNG "Tableau observation")
