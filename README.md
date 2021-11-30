@@ -52,6 +52,12 @@ The Random Forest model far outperformed the other approaches on the test and va
 
 ![alt text]"https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/Capture%20last.PNG"
 
+## summary
+* reason 0= basline line model(no reason)
+* person have poison poison 20 time likely to absent than person who have no reason
+* Drop unwanted reasons using back war elimination(daily work load avg,distance to work, day of week... all are have less impact) and make simple model
+* 
+* 
 ## Data vizualisation
 visulaize the data using tableau
 * Analyze
