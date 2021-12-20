@@ -1,5 +1,5 @@
 # Data Analytics for  Address Absenteeism at a company during work: Project Overview 
-* Created a tool that explore whether a person presenting certain characteristic is expected to be be away from work at some point in time or not to help to know f or  how many working hours an employee could be away from wor
+* Created a tool that explore whether a person presenting certain characteristic is expected to be be away from work at some point in time or not to help to know f or  how many working hours an employee could be away from work
 * gather relevant employee data
 * Optimized Linear to reach the model.
 * obtain the result that will clearly show whether or not each of these individual is expected to be absent for more than 3 hours during a work day
